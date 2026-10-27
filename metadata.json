@@ -1,0 +1,6 @@
+{
+  "name": "SCDSS — Supply Chain Decision Support System",
+  "description": "Enterprise Supply Chain Decision Support System featuring demand forecasting, EOQ inventory optimization, safety stock analysis, multi-stop delivery route planning, parallel execution benchmarking, and actionable decision recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
